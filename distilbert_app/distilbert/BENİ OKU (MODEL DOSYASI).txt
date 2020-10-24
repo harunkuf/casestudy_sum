@@ -1,0 +1,2 @@
+Model için oluşturulan tf_model.h5 dosyası 500 MB'den büyük olduğu için github'a yükleyemiyorum.
+Eğitilmiş modeli elde edebilmeniz için notebook'u çalıştırmanız gerekiyor.

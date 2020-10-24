@@ -1,0 +1,2 @@
+Model için oluşturulan pytorch_model.bin dosyası 700 MB'den büyük olduğu için github'a yükleyemiyorum.
+Eğitilmiş modeli elde edebilmeniz için notebook'u çalıştırmanız gerekiyor.
